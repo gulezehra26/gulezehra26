@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Gul e zehra! 
 
-<!--
-**gulezehra26/gulezehra26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+o 🎓AI Graduate  
+o 💻Learning Python & Chatbot Development
 
-Here are some ideas to get you started:
+📍 From Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+o python Programming 🐍  
+o Tkinter (GUI Development)  
+o Basic Machine Learning Concepts
+
+## Currently Learning  
+o Advanced Python 📈
+o Chatbot with AI APIs
+o Data Science
+
+## Goals
+o Build AI-Powered Chatbots 
+o Contribute to Open Source Projects
+o Become a Professional AI Developer
+
